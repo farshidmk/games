@@ -1,1 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Vazirmatn:wght@100..900&display=swap');
 @import "tailwindcss";
+
+
+
+
+.fansy-font {
+  font-family: "Permanent Marker", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.vazirmatn {
+  font-family: "Vazirmatn", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
